@@ -1,2 +1,1 @@
-//alert('Крутой харер взломал наш сайт!');
-
+console.error('console log alert');
